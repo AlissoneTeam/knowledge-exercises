@@ -22,5 +22,5 @@ export const listeEleves = [
 ]
 
 export const noteSuperieureADix = (tableauEleves) => {
-    /* Ecrire une instruction qui retourne un tableau contenant uniquement les élèves et leur note qui est supérieure à 10 */
+    /* Ecris une instruction qui retourne un tableau contenant uniquement les élèves et leur note qui est supérieure à 10 */
 }
